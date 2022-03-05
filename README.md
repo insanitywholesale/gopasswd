@@ -18,6 +18,7 @@ right now only env var input is supported, might add config file support at some
 - run `go get` to download the dependencies
 - set the environment variable `PASSWD` (example: `export PASSWD="password123"`)
 - set the environment variable `USR` (example: `export USR="user123"`)
+- set the environment variable `REPLACE_IN_SHADOW` (example: `export REPLACE_IN_SHADOW="justneedstonotbeempty"`)
 - run `go run main.go`
 - log out
 - fill your heart with hope
